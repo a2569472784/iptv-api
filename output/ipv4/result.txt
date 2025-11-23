@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 18:52:29,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
+2025-11-23 18:50:03,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
@@ -22,30 +22,35 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$订阅源
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8$订阅源
-安徽卫视,http://112.6.239.227:8207/hls/19/index.m3u8$订阅源
+黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv$订阅源
+安徽卫视,http://sh.lnott.top:880/dx34.m3u8$订阅源
 重庆卫视,http://sh.lnott.top:880/dx46.m3u8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
-东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8$订阅源
+东南卫视,http://sh.lnott.top:880/dx47.m3u8$订阅源
+甘肃卫视,http://139.196.214.238/rtp/239.45.1.234:5140$上海电信组播源-cache:139.196.214.238-组播源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 贵州卫视,http://sh.lnott.top:880/dx50.m3u8$订阅源
-海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8$订阅源
-河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8$订阅源
+海南卫视,http://sh.lnott.top:880/dx58.m3u8$订阅源
+河北卫视,http://sh.lnott.top:880/dx63.m3u8$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
-吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8$订阅源
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江西卫视,http://112.6.239.227:8207/hls/29/index.m3u8$订阅源
 辽宁卫视,http://sh.lnott.top:880/dx19.m3u8$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 宁夏卫视,http://sh.lnott.top:880/dx53.m3u8$订阅源
-山东卫视,http://112.6.239.227:8207/hls/15/index.m3u8$订阅源
+青海卫视,http://139.196.214.238/rtp/239.45.1.230:5140$上海电信组播源-cache:139.196.214.238-组播源
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://112.6.239.227:8207/hls/26/index.m3u8$订阅源
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv$订阅源
 四川卫视,http://xtvantsc.xyz/Smart.php?id=sichuan_twn$订阅源
-深圳卫视,http://112.6.239.227:8207/hls/20/index.m3u8$订阅源
-天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8$订阅源
+深圳卫视,http://sh.lnott.top:880/dx61.m3u8$订阅源
+三沙卫视,http://139.196.214.238/rtp/239.45.1.82:5140$上海电信组播源-cache:139.196.214.238-组播源
+天津卫视,http://sh.lnott.top:880/dx30.m3u8$订阅源
 西藏卫视,http://sh.lnott.top:880/dx57.m3u8$订阅源
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8$订阅源
+云南卫视,http://sh.lnott.top:880/dx49.m3u8$订阅源
