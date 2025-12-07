@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-12-05 18:54:09,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
+2025-12-07 18:50:31,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
-CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8$订阅源
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
 CCTV-10,http://183.220.107.138:4022/rtp/239.11.0.112:5140$订阅源
@@ -19,14 +18,14 @@ CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+北京卫视,http://183.220.107.138:4022/rtp/239.11.0.121:5140$订阅源
 湖北卫视,http://sh.lnott.top:880/dx42.m3u8$订阅源
 黑龙江卫视,http://183.220.107.138:4022/rtp/239.11.0.36:5140$订阅源
 安徽卫视,http://sh.lnott.top:880/dx34.m3u8$订阅源
 重庆卫视,http://183.220.107.138:4022/rtp/239.11.0.116:5140$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东南卫视,http://sh.lnott.top:880/dx47.m3u8$订阅源
-甘肃卫视,http://60.13.52.236:65500/newlive/live/hls/17/live.m3u8$订阅源
+甘肃卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 贵州卫视,http://sh.lnott.top:880/dx50.m3u8$订阅源
 海南卫视,http://sh.lnott.top:880/dx58.m3u8$订阅源
@@ -38,9 +37,9 @@ CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
 辽宁卫视,http://sh.lnott.top:880/dx19.m3u8$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
 宁夏卫视,http://183.220.107.138:4022/rtp/239.11.0.57:5140$订阅源
-青海卫视,http://60.13.52.236:65500/newlive/live/hls/44/live.m3u8$订阅源
+青海卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8$订阅源
 山东卫视,http://183.220.107.138:4022/rtp/239.11.0.73:5140$订阅源
-山西卫视,http://60.13.52.236:65500/newlive/live/hls/47/live.m3u8$订阅源
+山西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8$订阅源
 陕西卫视,http://183.220.107.138:4022/rtp/239.11.0.54:5140$订阅源
 四川卫视,http://183.220.107.138:4022/rtp/239.11.0.78:5140$订阅源
 深圳卫视,http://sh.lnott.top:880/dx61.m3u8$订阅源
