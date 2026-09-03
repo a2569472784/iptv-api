@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/a2569472784/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-01 22:43:55
-http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-03 22:20:44
+http://124.228.160.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://124.228.160.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://104.152.209.49:8181/720p/cctv2.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
@@ -10,7 +12,7 @@ https://live.264788.xyz/channel/cctv4?streamid=9d2612a9fac7098d2105cf8bf4625d1d&
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://live.264788.xyz/channel/cctv5?streamid=75e09d8ebb5b5dac2dd7ed2dd2f0ecac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
+http://107.150.60.122/live/cctv5p.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
@@ -36,11 +38,11 @@ https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
-https://live.264788.xyz/channel/guangdongweishi?streamid=a8a6999dae6313a2788eff262b5873bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://live.264788.xyz/channel/zhejiangweishi?streamid=fd3b4ddfd1dabea05102cd13ed0320c1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-https://live.264788.xyz/channel/hunanweishi?streamid=8e9299121d7998c768bf5cca270f2956&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
@@ -52,7 +54,7 @@ https://live.264788.xyz/channel/anhuiweishi?streamid=fb8fe141f6787a1c084cd093425
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://live.264788.xyz/channel/chongqingweishi?streamid=67cc81d963a7523e0fd449d3844b30bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-https://live.264788.xyz/channel/dongfangweishi?streamid=a98a89080092a7cf477ee2ef68844319&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://live.264788.xyz/channel/dongnanweishi?streamid=4d90aad6479c0a0b75ec6c1bae2fe784&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
@@ -70,7 +72,7 @@ https://live.264788.xyz/channel/henanweishi?streamid=e6115275e3e4065441b2b911793
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 https://live.264788.xyz/channel/jilinweishi?streamid=89b8aec95c4726014687767de658b6b9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi?streamid=2e3c19907f83ee49962e7a3b1db2c093&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
